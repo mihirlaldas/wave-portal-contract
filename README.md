@@ -1,4 +1,4 @@
-# [DECPRICATED]
+# [DEPRICATED]
 # Simple solidity contract to wave and message
 
 ## [checkout the app here](https://waveportal-starter-project.mihirlaldas.repl.co/)
